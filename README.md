@@ -34,8 +34,8 @@ Python environment setup detailed in requirements.txt
    * Create a new virtual environment:
    ```bash
     python -m venv venv
-
-    * Activate the virtual environment:
+   ```
+   * Activate the virtual environment:
       * Windows: `venv\Scripts\activate`
       * macOS/Linux: `source venv/bin/activate`
 3. **Install Dependencies**:
