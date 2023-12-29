@@ -41,6 +41,3 @@ Python environment setup detailed in requirements.txt
 3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
-
-## Usage
-
