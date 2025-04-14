@@ -1,7 +1,7 @@
 # Final Project Machine Learning Process - Predicting Diabetes
 
 ## Overview
-This repository, part of the Machine Learning Process training at Pacman Academy, demonstrates a comprehensive approach to predicting diabetes using machine learning techniques. It encompasses data analysis, preprocessing, model building, and evaluation using Python. Dataset retrieved from kaggle: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+This repository demonstrates a comprehensive approach to predicting diabetes using machine learning techniques. It encompasses data analysis, preprocessing, model building, and evaluation using Python. Dataset retrieved from kaggle: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## Structure
 * `assets: Miscellaneous resources`
